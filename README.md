@@ -47,4 +47,5 @@ The scripts bundled together would not have been possibly were it not for the sc
 * [TheFifthWheel](http://gamebanana.com/members/1350351)'s [TF2 Jukebox Script](http://tf2.gamebanana.com/scripts/8268), used as inspiration for the music player (special thanks for providing the names of the music files),
 * INsane for his [developer console font file information](http://www.dodbits.com/dods/index.php/source-graphics/source-gui-hud-tutorials/33-console-font-color-and-size),
 * josh33901 for his rocket jump suggestion.
+
 As best as I can recall, all other scripts are written by me, using various tutorials and my own discoveries. If you feel your script was not credited, or you want me to cease distributing your script, send me a message and I will either add credit where it is due or remove your script.
