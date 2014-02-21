@@ -26,4 +26,4 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 * `SUICIDE_EXPLOSION`
 
 ## Installation ##
-To install, locate your Team Fortress 2 installation's `cfg` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\cfg`), then copy-and-paste the contents of this script pack's `cfg` folder to it.
+To install, locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
