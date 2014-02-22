@@ -22,7 +22,7 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 * **Spy: Auto Disguise:** automatically disguises the Spy on left-click. If this is not desirable (for example, when placing a sapper), use MOUSE3 to perform a normal left-click. Also automatically changes the disguise's current weapon when actually switching weapons. Press F at any time to disable all auto disguise functions.
 
 ### Settings ###
-TF2-Scripts comes with several settings used to disable certain undesired features; edit them in `cfg\scripts\settings.cfg`:
+TF2-Scripts comes with several settings used to disable certain undesired features; edit them in `cfg\_settings.cfg`:
 * `AUTO_CROUCH_JUMP`
 * `AUTO_DISGUISE`
 * `CLEAR_CONSOLE_ON_START`
