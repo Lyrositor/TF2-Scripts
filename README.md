@@ -12,6 +12,7 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 * **Loadout Switch:** binds 4 Shift key combinations to each loadout.
 * **Music Player:** cycles through Team Fortress 2's music files when pressing the `;` key. Can also automatically play a song on class select.
 * **Netgraph:** displays the netgraph on the score screen (Tab key).
+* **Pyro Airblast Call:** sends a team message asking for a Pyro to airblast you.
 * **Spy-Checking Lines:** sends a team message notifying players about an exposed spy (e.g. "Pyro is Spy.").
 * **Suicide Explosion:** makes you explode at the touch of a button.
 * **Engineer: Building Bindings:** binds keys 6 through 9 to the Engineer's buildings, automatically destroying any existing buildings when pressed. You can also disable the PDA numeric keys.
