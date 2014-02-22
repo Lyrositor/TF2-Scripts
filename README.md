@@ -7,7 +7,7 @@ TF2-Scripts
 
 ## Features ##
 Most features are usable by all classes, but a few are class-specific. If you would like to see more features implemented send me a message and I'll do my best, if I find it interesting:
-* **Debug Output:** prints debug messages to the screen (such as current spy disguise and so on). A custom resource file changes the font to use TF2's custom font.
+* **Debug Output:** prints debug messages to the screen using captions (such as current spy disguise and so on).
 * **Auto Crouch-Jump:** automatically makes you crouch-jump when playing the spacebar.
 * **Loadout Switch:** binds 4 Shift key combinations to each loadout.
 * **Music Player:** cycles through Team Fortress 2's music files when pressing the `;` key. Can also automatically play a song on class select.
@@ -16,7 +16,7 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 * **Spy-Checking Lines:** sends a team message notifying players about an exposed spy (e.g. "Pyro is Spy.").
 * **Suicide Explosion:** makes you explode at the touch of a button.
 * **Viewmodel Toggling:** toggles display of the active weapon at the press of the `Delete` key.
-* **Engineer: Building Bindings:** binds keys 6 through 9 to the Engineer's buildings, automatically destroying any existing buildings when pressed. You can also disable the PDA numeric keys.
+* **Engineer: Building Bindings:** binds keys 6 through 9 to the Engineer's buildings, automatically destroying any existing buildings when pressed. You can also disable the PDA numeric keys; doing so will shift the building bindings from 6-9 to 4-7.
 * **Soldier: Rocket Jump:** a simple rocket jump script bound to MOUSE3. Does not provide optimal jump, but is a reliable way to rocket jump. Aim the rocket launcher at the ground before clicking.
 * **Spy: Taunt:** automatically un-disguises the Spy before performing a taunt. If pressing G once doesn't work for you, always quickly press G twice.
 * **Spy: Disguise Bindings:** binds key 5 through 9 to some of the Spy's disguises.
@@ -48,6 +48,7 @@ The scripts bundled together would not have been possibly were it not for the sc
 * Dr.Device's [Toggle Auto Disguise on attack V1.2](http://tf2wiki.net/wiki/spy_scripts#Toggle_Auto_Disguise_on_attack) script for Spy, upon which the auto disguise functionality is based,
 * [TheFifthWheel](http://gamebanana.com/members/1350351)'s [TF2 Jukebox Script](http://tf2.gamebanana.com/scripts/8268), used as inspiration for the music player (special thanks for providing the names of the music files),
 * INsane for his [developer console font file information](http://www.dodbits.com/dods/index.php/source-graphics/source-gui-hud-tutorials/33-console-font-color-and-size),
+* [clovervidia](http://steamcommunity.com/id/clovervidia/) for his [captions tutorials](http://www.reddit.com/r/tf2scripthelp/wiki/captions),
 * josh33901 for his rocket jump suggestion.
 
 As best as I can recall, all other scripts are written by me, using various tutorials and my own discoveries. If you feel your script was not credited, or you want me to cease distributing your script, send me a message and I will either add credit where it is due or remove your script.
