@@ -22,11 +22,12 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 - **Spy-Checking Lines:** sends a team message notifying players about an exposed spy (e.g. "Pyro is Spy.") by pressing `Shift` + the class' number (1-9).
 - **Suicide Explosion:** makes you explode at the touch of a button.
 - **Viewmodel Toggling:** toggles display of the active weapon at the press of the `Delete` key.
+- **Zooming:** zooms in and out when pressing `F`.
 - **Engineer: Building Bindings:** binds keys 6 through 9 to the Engineer's buildings, automatically destroying any existing buildings when pressed. You can also disable the PDAs; doing so will shift the building bindings from 6-9 to 4-7.
 - **Soldier: Rocket Jump:** a simple rocket jump script bound to `MOUSE2` when toggled on (use `R` to toggle). Does not provide optimal jump, but is a reliable way to rocket jump. Aim the rocket launcher at the ground before clicking.
 - **Spy: Taunt:** automatically un-disguises the Spy before performing a taunt. If pressing `G` once doesn't work for you, always quickly press `G` twice.
 - **Spy: Disguise Bindings:** binds key 5 through 9 to some of the Spy's disguises.
-- **Spy: Auto Disguise:** automatically disguises the Spy on clicking `MOUSE1`. If this is not desirable (for example, when placing a sapper), use `MOUSE3` to perform a normal left-click. Also automatically changes the disguise's current weapon when actually switching weapons. Press `F` at any time to disable all auto disguise functions.
+- **Spy: Auto Disguise:** automatically disguises the Spy on clicking `MOUSE1`. If this is not desirable (for example, when placing a sapper), use `MOUSE3` to perform a normal left-click. Also automatically changes the disguise's current weapon when actually switching weapons. Press `R` at any time to disable all auto disguise functions.
 
 ### Settings ###
 TF2-Scripts comes with several settings used to disable certain undesired features; edit them in `cfg\_settings.cfg`:
@@ -45,6 +46,9 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 - `SPY_LINES`
 - `SPY_TAUNT`
 - `SUICIDE_EXPLOSION`
+- `ZOOM_IN_HIDE_WEAPON`
+- `ZOOM_IN_SENSITIVITY`
+- `ZOOM_OUT_SENSITIVITY`
 
 ## Installation ##
 To install, locate your Team Fortress 2 installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows), then copy-and-paste the `TF2-Scripts` there.
@@ -59,6 +63,7 @@ The scripts bundled together would not have been possibly were it not for the sc
 - INsane for his [developer console font file information](http://www.dodbits.com/dods/index.php/source-graphics/source-gui-hud-tutorials/33-console-font-color-and-size),
 - [clovervidia](http://steamcommunity.com/id/clovervidia/) for his [captions tutorials](http://www.reddit.com/r/tf2scripthelp/wiki/captions),
 - povohat.au for his [null-cancelling script](http://ozfortress.com/showpost.php?p=624355),
+- stabby stabby for his [zoom script](http://steamcommunity.com/groups/stabbyvideo/discussions/0/846963165458399532/),
 - josh33901 for his rocket jump suggestion.
 
 As best as I can recall, all other scripts are written by me, using various tutorials and my own discoveries. If you feel your script was not credited, or you want me to cease distributing your script, send me a message and I will either add credit where it is due or remove your script.
