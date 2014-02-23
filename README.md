@@ -31,7 +31,6 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 TF2-Scripts comes with several settings used to disable certain undesired features; edit them in `cfg\_settings.cfg`:
 
 - `AUTO_CROUCH_JUMP`
-- `AUTO_DISGUISE`
 - `CLEAR_CONSOLE_ON_START`
 - `DEBUG_OUTPUT_ON_START`
 - `ENGINEER_PDA`
@@ -40,6 +39,7 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 - `LOADOUT_SWITCH`
 - `SHOW_NETGRAPH`
 - `SOLDIER_ROCKET_JUMP`
+- `SPY_AUTO_DISGUISE`
 - `SPY_LINES`
 - `SPY_TAUNT`
 - `SUICIDE_EXPLOSION`
