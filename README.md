@@ -21,7 +21,7 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 - **Spy-Checking Lines:** sends a team message notifying players about an exposed spy (e.g. "Pyro is Spy.") by pressing `Shift` + the class' number (1-9).
 - **Suicide Explosion:** makes you explode at the touch of a button.
 - **Viewmodel Toggling:** toggles display of the active weapon at the press of the `Delete` key.
-- **Engineer: Building Bindings:** binds keys 6 through 9 to the Engineer's buildings, automatically destroying any existing buildings when pressed. You can also disable the PDA numeric keys; doing so will shift the building bindings from 6-9 to 4-7.
+- **Engineer: Building Bindings:** binds keys 6 through 9 to the Engineer's buildings, automatically destroying any existing buildings when pressed. You can also disable the PDAs; doing so will shift the building bindings from 6-9 to 4-7.
 - **Soldier: Rocket Jump:** a simple rocket jump script bound to `MOUSE2` when toggled on (use `R` to toggle). Does not provide optimal jump, but is a reliable way to rocket jump. Aim the rocket launcher at the ground before clicking.
 - **Spy: Taunt:** automatically un-disguises the Spy before performing a taunt. If pressing `G` once doesn't work for you, always quickly press `G` twice.
 - **Spy: Disguise Bindings:** binds key 5 through 9 to some of the Spy's disguises.
