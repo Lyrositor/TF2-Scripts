@@ -17,6 +17,7 @@ Most features are usable by all classes, but a few are class-specific. If you wo
 - **Loadout Switch:** binds 4 `Shift` key combinations to each loadout.
 - **Music Player:** cycles through Team Fortress 2's music files when pressing the `;` key. Can also automatically play a song on class select.
 - **Netgraph:** displays the netgraph on the score screen (`Tab` key).
+- **Null-Cancelling Movement Script:** a classic script which lets you immediately change direction.
 - **Pyro Airblast Call:** sends a team message asking for a Pyro to airblast you by pressing `Backspace`.
 - **Spy-Checking Lines:** sends a team message notifying players about an exposed spy (e.g. "Pyro is Spy.") by pressing `Shift` + the class' number (1-9).
 - **Suicide Explosion:** makes you explode at the touch of a button.
@@ -36,6 +37,7 @@ TF2-Scripts comes with several settings used to disable certain undesired featur
 - `ENGINEER_PDA`
 - `MUSIC_PLAYER`
 - `MUSIC_PLAYER_CLASSES`
+- `NULL_CANCELLING`
 - `LOADOUT_SWITCH`
 - `SHOW_NETGRAPH`
 - `SOLDIER_ROCKET_JUMP`
@@ -56,6 +58,7 @@ The scripts bundled together would not have been possibly were it not for the sc
 - [TheFifthWheel](http://gamebanana.com/members/1350351)'s [TF2 Jukebox Script](http://tf2.gamebanana.com/scripts/8268), used as inspiration for the music player (special thanks for providing the names of the music files),
 - INsane for his [developer console font file information](http://www.dodbits.com/dods/index.php/source-graphics/source-gui-hud-tutorials/33-console-font-color-and-size),
 - [clovervidia](http://steamcommunity.com/id/clovervidia/) for his [captions tutorials](http://www.reddit.com/r/tf2scripthelp/wiki/captions),
+- povohat.au for his [null-cancelling script](http://ozfortress.com/showpost.php?p=624355),
 - josh33901 for his rocket jump suggestion.
 
 As best as I can recall, all other scripts are written by me, using various tutorials and my own discoveries. If you feel your script was not credited, or you want me to cease distributing your script, send me a message and I will either add credit where it is due or remove your script.
